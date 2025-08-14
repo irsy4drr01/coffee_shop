@@ -1,8 +1,11 @@
 # ☕ Coffee Shop
 
-[![Frontend](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react&logoColor=white)](https://github.com/irsy4drr01/coffee-shop_20)
-[![Backend](https://img.shields.io/badge/Backend-Golang-00ADD8?logo=go&logoColor=white)](https://github.com/irsy4drr01/coffeeshop_be_go)
-[![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 Coffee Shop is a web-based coffee ordering application developed as a Full-stack Developer portfolio project.  
 It features online ordering, product management, order history, and sales reporting.
