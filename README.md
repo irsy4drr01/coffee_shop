@@ -13,13 +13,12 @@ It features online ordering, product management, order history, and sales report
 ## 🔗 Github Repositories
 
 - **[Backend](https://github.com/irsy4drr01/coffeeshop_be_go)**
-
-- **[Frontend](https://github.com/irsy4drr01/coffee-shop_20)**    
+- **[Frontend](https://github.com/irsy4drr01/coffee-shop_20)**
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, TypeScript, Tailwind CSS  
-- **Backend:** Golang (Gin), PostgreSQL, Docker  
+- **Backend:** Golang (Gin), PostgreSQL, Docker
 - **Others:** JWT Authentication, REST API, Cloudinary
 
 ---
