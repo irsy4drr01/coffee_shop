@@ -1,4 +1,4 @@
-# ☕ Coffee Shop
+# ☕ Coffee Shop App
 
 [![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com/)
